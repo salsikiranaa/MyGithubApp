@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GitHubUser</string>
+    <string name="searchbar_hint">Masukkan username</string>
+    <string name="username">Username</string>
+    <string name="name">Name</string>
+    <string name="detail_app_name">User detail</string>
+    <string name="followers">Follower</string>
+    <string name="following">Following</string>
+    <string name="no_followers">Daftar pengikut tidak ditemukan</string>
+    <string name="no_following">Daftar mengikuti tidak ditemukan</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
