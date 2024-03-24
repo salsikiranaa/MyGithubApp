@@ -10,7 +10,7 @@ import retrofit2.http.Path
 import retrofit2.http.Query
 
 interface ApiService {
-    @Headers("Authorization: token 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")
+    @Headers("Authorization: token personal_token")
     @GET("search/users")
     fun getItemsItem(
         @Query("q") q: String
